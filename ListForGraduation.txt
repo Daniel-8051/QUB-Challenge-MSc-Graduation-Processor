@@ -1,0 +1,342 @@
+Student number : 10101011
+First name : Jimmy
+Last name : Joe
+Average : 65
+Classification : Commendation
+
+Student number : 19828282
+First name : Liam 
+Last name : Barry
+Average : 57
+Classification : Pass
+
+Student number : 29555553
+First name : Noah 
+Last name : Boat
+Average : 75
+Classification : Distinction
+
+Student number : 39282824
+First name : William 
+Last name : Phoner
+Average : 74
+Classification : Distinction
+
+Student number : 49010095
+First name : James 
+Last name : Watson
+Average : 73
+Classification : Distinction
+
+Student number : 58737366
+First name : Oliver 
+Last name : Reed
+Average : 62
+Classification : Commendation
+
+Student number : 68464637
+First name : Benjamin 
+Last name : Benny
+Average : 66
+Classification : Commendation
+
+Student number : 78191908
+First name : Luke
+Last name : Look
+Average : 65
+Classification : Commendation
+
+Student number : 87919179
+First name : Emma
+Last name : Wee
+Average : 75
+Classification : Distinction
+
+Student number : 97646450
+First name : Olivia
+Last name : Johnston
+Average : 82
+Classification : Distinction
+
+Student number : 107373721
+First name : Ava
+Last name : Lovelace
+Average : 52
+Classification : Pass
+
+Student number : 117100992
+First name : Isabella
+Last name : Man
+Average : 73
+Classification : Distinction
+
+Student number : 126828263
+First name : Sophia
+Last name : McDermott
+Average : 64
+Classification : Commendation
+
+Student number : 136555534
+First name : Charlotte
+Last name : McDade
+Average : 78
+Classification : Distinction
+
+Student number : 146282805
+First name : Mia
+Last name : Farrow
+Average : 67
+Classification : Commendation
+
+Student number : 156010076
+First name : Amelia
+Last name : Lochhart
+Average : 72
+Classification : Distinction
+
+Student number : 165737347
+First name : Ethan 
+Last name : Hunt
+Average : 78
+Classification : Distinction
+
+Student number : 175464618
+First name : Jacob 
+Last name : Cracker
+Average : 64
+Classification : Commendation
+
+Student number : 185191889
+First name : Michael 
+Last name : McKenna
+Average : 60
+Classification : Commendation
+
+Student number : 10101011
+First name : Jimmy
+Last name : Joe
+Average : 65
+Classification : Commendation
+
+Student number : 19828282
+First name : Liam 
+Last name : Barry
+Average : 57
+Classification : Pass
+
+Student number : 29555553
+First name : Noah 
+Last name : Boat
+Average : 75
+Classification : Distinction
+
+Student number : 39282824
+First name : William 
+Last name : Phoner
+Average : 74
+Classification : Distinction
+
+Student number : 49010095
+First name : James 
+Last name : Watson
+Average : 73
+Classification : Distinction
+
+Student number : 58737366
+First name : Oliver 
+Last name : Reed
+Average : 62
+Classification : Commendation
+
+Student number : 68464637
+First name : Benjamin 
+Last name : Benny
+Average : 66
+Classification : Commendation
+
+Student number : 78191908
+First name : Luke
+Last name : Look
+Average : 65
+Classification : Commendation
+
+Student number : 87919179
+First name : Emma
+Last name : Wee
+Average : 75
+Classification : Distinction
+
+Student number : 97646450
+First name : Olivia
+Last name : Johnston
+Average : 82
+Classification : Distinction
+
+Student number : 107373721
+First name : Ava
+Last name : Lovelace
+Average : 52
+Classification : Pass
+
+Student number : 117100992
+First name : Isabella
+Last name : Man
+Average : 73
+Classification : Distinction
+
+Student number : 126828263
+First name : Sophia
+Last name : McDermott
+Average : 64
+Classification : Commendation
+
+Student number : 136555534
+First name : Charlotte
+Last name : McDade
+Average : 78
+Classification : Distinction
+
+Student number : 146282805
+First name : Mia
+Last name : Farrow
+Average : 67
+Classification : Commendation
+
+Student number : 156010076
+First name : Amelia
+Last name : Lochhart
+Average : 72
+Classification : Distinction
+
+Student number : 165737347
+First name : Ethan 
+Last name : Hunt
+Average : 78
+Classification : Distinction
+
+Student number : 175464618
+First name : Jacob 
+Last name : Cracker
+Average : 64
+Classification : Commendation
+
+Student number : 185191889
+First name : Michael 
+Last name : McKenna
+Average : 60
+Classification : Commendation
+
+Student number : 10101011
+First name : Jimmy
+Last name : Joe
+Average : 65
+Classification : Commendation
+
+Student number : 19828282
+First name : Liam 
+Last name : Barry
+Average : 57
+Classification : Pass
+
+Student number : 29555553
+First name : Noah 
+Last name : Boat
+Average : 75
+Classification : Distinction
+
+Student number : 39282824
+First name : William 
+Last name : Phoner
+Average : 74
+Classification : Distinction
+
+Student number : 49010095
+First name : James 
+Last name : Watson
+Average : 73
+Classification : Distinction
+
+Student number : 58737366
+First name : Oliver 
+Last name : Reed
+Average : 62
+Classification : Commendation
+
+Student number : 68464637
+First name : Benjamin 
+Last name : Benny
+Average : 66
+Classification : Commendation
+
+Student number : 78191908
+First name : Luke
+Last name : Look
+Average : 65
+Classification : Commendation
+
+Student number : 87919179
+First name : Emma
+Last name : Wee
+Average : 75
+Classification : Distinction
+
+Student number : 97646450
+First name : Olivia
+Last name : Johnston
+Average : 82
+Classification : Distinction
+
+Student number : 107373721
+First name : Ava
+Last name : Lovelace
+Average : 52
+Classification : Pass
+
+Student number : 117100992
+First name : Isabella
+Last name : Man
+Average : 73
+Classification : Distinction
+
+Student number : 126828263
+First name : Sophia
+Last name : McDermott
+Average : 64
+Classification : Commendation
+
+Student number : 136555534
+First name : Charlotte
+Last name : McDade
+Average : 78
+Classification : Distinction
+
+Student number : 146282805
+First name : Mia
+Last name : Farrow
+Average : 67
+Classification : Commendation
+
+Student number : 156010076
+First name : Amelia
+Last name : Lochhart
+Average : 72
+Classification : Distinction
+
+Student number : 165737347
+First name : Ethan 
+Last name : Hunt
+Average : 78
+Classification : Distinction
+
+Student number : 175464618
+First name : Jacob 
+Last name : Cracker
+Average : 64
+Classification : Commendation
+
+Student number : 185191889
+First name : Michael 
+Last name : McKenna
+Average : 60
+Classification : Commendation
+
